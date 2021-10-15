@@ -1,0 +1,4 @@
+Executing script: C:\Users\duhac\OneDrive\Desktop\Twilio\Python\dictionaries.py
+Script arguments: 
+Output:
+
