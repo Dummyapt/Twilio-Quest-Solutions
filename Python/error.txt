@@ -1,8 +1,0 @@
-Executing script: C:\Users\duhac\OneDrive\Desktop\Twilio\Python\fizzbuzz.py
-Script arguments: -3000,7,6,100
-Output:
-Traceback (most recent call last):
-  File "C:\Users\duhac\OneDrive\Desktop\Twilio\Python\fizzbuzz.py", line 7, in <module>
-    if i % 3 == 0 and i % 5 == 0:
-TypeError: not all arguments converted during string formatting
-
